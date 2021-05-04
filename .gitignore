@@ -1,0 +1,8 @@
+# Chart Releaser Files
+.cr-*
+
+# mkdocs files
+site/
+
+# mac
+.DS_Store
